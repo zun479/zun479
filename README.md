@@ -5,5 +5,5 @@
   <a href="https://x.com/zoriusworks"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://youtube.com/@zoriusworks?si=SillgNA0rfX4whZ5"><img src="https://img.shields.io/badge/-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <br/>
-  <a href="mailto:zoriusworks@gmail.com"><img src="https://img.shields.io/badge/-zoriusworks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="420"/></a>
+  <a href="mailto:zoriusworks@gmail.com"><img src="https://img.shields.io/badge/-zoriusworks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="420" height="35"/></a>
 </p>
